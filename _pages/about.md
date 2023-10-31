@@ -27,7 +27,7 @@ Education
 Department of Computer Science and Engineering, IIT Roorkee
 
 
-**M.Tech in Computer Science and Technology**,<br>
+**M.Tech in Computer Science and Technology(2022)**,<br>
 School of Computer and Systems Sciences JNU, New Delhi
 
 

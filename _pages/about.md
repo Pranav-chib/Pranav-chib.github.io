@@ -12,6 +12,9 @@ I am a 2nd Year Ph.D. student (advised by Professor Pravendra Singh) in the Depa
 
 My current research interests broadly revolve arounds machine learning, computer vision, and autonomous driving. My ongoing doctoral studies focus on contributing to advancements in autonomous driving and deep learning.
 
+<br>
+<br>
+
 
 Interests
 ======
@@ -19,6 +22,9 @@ Interests
 - Computer Vision
 - Autonomous Driving
 - Intelligent Transportation
+<br>
+<br>
+
 
 
 Education
@@ -29,5 +35,15 @@ Department of Computer Science and Engineering, IIT Roorkee
 
 **M.Tech in Computer Science and Technology(2022)**,<br>
 School of Computer and Systems Sciences JNU, New Delhi
+
+
+<br>
+<br>
+
+
+
+
+
+
 
 

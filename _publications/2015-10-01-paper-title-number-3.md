@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Improving Trajectory Prediction in Dynamic Multi-Agent Environment by Dropping Waypoints"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -12,4 +12,4 @@ Trajectory prediction methods often operate under the assumption that observed t
 
 [Download paper here](https://arxiv.org/abs/2309.17338)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->

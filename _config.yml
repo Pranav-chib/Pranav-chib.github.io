@@ -83,7 +83,7 @@ author:
   name             : "Pranav Singh Chib"
   avatar           : "profile_image.jpg"
   bio              : "Ph.D. Student"
-  location         : "Indian Institute of Technology Roorkee, India"
+  location         : "IIT Roorkee, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tcAkrCUAAAAJ"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "in/pranav-singh-chib-989313155"
-  orcid            : "https://orcid.org/0000-0003-4930-3937"
+  # orcid            : "https://orcid.org/0000-0003-4930-3937"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

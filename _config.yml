@@ -78,43 +78,19 @@ analytics:
     tracking_id          :
 
 
-# Site Author
 author:
-  name             : "Pranav Singh Chib"
-  avatar           : "profilee.jpg"
-  bio              : "Ph.D. Student"
-  location         : "IIT Roorkee, India"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tcAkrCUAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/Pranav-chib"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "in/pranav-singh-chib-989313155"
-  orcid            : "https://orcid.org/0000-0003-4930-3937"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "@chibpranav"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Pranav Singh Chib"
+  avatar: "profilee.jpg"
+  bio: "Ph.D. Candidate @ IIT Roorkee | Generative AI Researcher"
+  location: "India"
+  employer: "IIT Roorkee"
+
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tcAkrCUAAAAJ"
+
+  github: "Pranav-chib"
+  linkedin: "pranav-singh-chib-989313155"
+  orcid: "https://orcid.org/0000-0003-4930-3937"
+  twitter: "chibpranav"
 
 
 # Reading Files

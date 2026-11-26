@@ -39,3 +39,153 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+/* ==============================
+   Custom Academic Website Styling
+   ============================== */
+
+body {
+    font-family: "Inter", -apple-system,
+                 BlinkMacSystemFont, "Segoe UI",
+                 Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* Main content */
+
+#main {
+    max-width: 1200px;
+    margin: 2em auto;
+}
+
+.page__content {
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+/* Navigation */
+
+.masthead {
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.greedy-nav a {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* Profile photo */
+
+.author__avatar img {
+    border-radius: 50%;
+    padding: 4px;
+    border: 1px solid #e5e7eb;
+}
+
+/* Profile sidebar */
+
+.author__name {
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.author__bio {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Section headings */
+
+.page__content h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+/* Hyperlinks */
+
+.page__content a {
+    color: #2563a6;
+    text-decoration: none;
+}
+
+.page__content a:hover {
+    text-decoration: underline;
+}
+
+/* Publication cards */
+
+.publication-card {
+    display: flex;
+    gap: 20px;
+    padding: 22px 0;
+    border-bottom: 1px solid #e5e7eb;
+    align-items: flex-start;
+}
+
+.publication-card img {
+    width: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    object-fit: contain;
+}
+
+.publication-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.publication-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #2563a6;
+}
+
+.publication-authors {
+    font-size: 14px;
+}
+
+.publication-venue {
+    font-size: 14px;
+    font-weight: 600;
+    color: #a16207;
+}
+
+.publication-links a {
+    display: inline-block;
+    font-size: 13px;
+    padding: 3px 10px;
+    margin: 4px 4px 4px 0;
+    border: 1px solid #2563a6;
+    border-radius: 4px;
+}
+
+/* News section */
+
+.news-container {
+    max-height: 280px;
+    overflow-y: auto;
+    padding-right: 12px;
+}
+
+/* Mobile responsiveness */
+
+@media (max-width: 768px) {
+    .publication-card {
+        flex-direction: column;
+    }
+
+    .publication-card img {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .page__content {
+        font-size: 15px;
+    }
+}
